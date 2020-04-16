@@ -1,0 +1,110 @@
+[
+  {
+     "name": "OMNIS Distribution PHASE 1 ",
+     "logo": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "icon": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "website":"omnis-bit.com",
+     "steps": [ 
+        "Register",
+        "Follow our socials",
+        "Fill our form"
+     ],
+     "description": "Distributed",
+     "details": "OMNIS-BIT ",
+
+     "end": "Distributed",
+     "rewards": "150 OMNIS ",
+     "socials" : {
+        "reddit": "",
+        "facebook": "",
+        "youtube": "" ,
+        "instagram": "",
+        "medium": "" ,
+        "twitter": ""
+
+
+     },
+      "googleform":"-"
+  },
+
+  {
+     "name": "OMNIS Distribution PHASE 2 ",
+     "logo": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "icon": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "website":"omnis-bit.com",
+     "steps": [ 
+        "Register",
+        "Follow our socials",
+        "Fill our form"
+     ],
+     "description": "Distributed",
+     "details": "OMNIS-BIT",
+
+     "end": "Distributed",
+     "rewards": "100 OMNIS ",
+     "socials" : {
+        "reddit": "",
+        "facebook": "",
+        "youtube": "" ,
+        "instagram": "",
+        "medium": "" ,
+        "twitter": ""
+
+
+     },
+     "googleform":"-"
+  },
+{
+     "name": "OMNIS Distribution PHASE 3 ",
+     "logo": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "icon": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "website":"omnis-bit.com",
+     "steps": [ 
+        "Register",
+        "Follow our socials",
+        "Fill our form"
+     ],
+       "description": "Distributed",
+     "details": "OMNIS-BIT ",
+
+     "end": "Distributed",
+     "rewards": "60 OMNIS",
+     "socials" : {
+        "reddit": "",
+        "facebook": "",
+        "youtube": "" ,
+        "instagram": "",
+        "medium": "" ,
+        "twitter": ""
+
+
+     },
+     "googleform": "none"
+  },
+ {
+     "name": "OMNIS-BIT Distribution PHASE 4 ",
+     "logo": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "icon": "https://i.ibb.co/m50wVmB/Transparent.png",
+     "website":"omnis-bit.com",
+     "steps":["read and fill out the google form"
+     ],
+       "description": "Ongoing",
+     "details": "Tokenize Your Skills",
+
+     "end": "Indefinite",
+     "rewards": "41 OMNIS",
+     "socials" : {
+        "reddit": "",
+        "facebook": "",
+        "youtube": "" ,
+        "instagram": "",
+        "medium": "" ,
+        "twitter": ""
+
+
+     },
+     "googleform": "https://forms.gle/cFTdiQo2cWy56te79"
+  }
+
+
+]
