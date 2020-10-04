@@ -80,13 +80,16 @@ h6 {
   font-size: 1.2rem; }
 
 p {
-  font-size: 0.9rem; }
+  font-size: 0.9rem;
+  color: white;
+}
 
 .page {
   margin-top: 2.5rem;
   position: relative; }
 
 .main-section {
+  background-color: #787779;
   margin: 0;
   padding: 4rem 0;
   position: relative; }
