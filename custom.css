@@ -1435,11 +1435,11 @@ h2#main-h2 {
 }
 
 .pre-roadmap p.pre-ongoing:before {
-    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background: linear-gradient(135deg, #EF7F1A, #FFD423);
     border: 1px solid #d26e2b;
 }
 .row span.pre-ongoing {
-    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background: linear-gradient(135deg, #EF7F1A, #FFD423);
     border: 1px solid #d26e2b;
 }
 
@@ -3397,7 +3397,7 @@ footer {
 }
 
 .roadmap .ongoing {
-    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background: linear-gradient(135deg, #EF7F1A, #FFD423);
     border: 1px solid #d26e2b;
     border-radius: 50%;
 }
@@ -3582,7 +3582,7 @@ footer {
 }
 
 .tabPanel-widget input[name="tabs"]:checked + h2 {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+  background: linear-gradient(135deg, #EF7F1A, #FFD423);
   color: #ffffff;
 }
 
